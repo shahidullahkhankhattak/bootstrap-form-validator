@@ -16,7 +16,7 @@
 This package requires [jQuery](https://jquery.com/) to work.
 
 Either include script through CDN:
-```javascript
+```html
 <script src="https://cdn.shahidullahkhan.com/bootstrap-form-validator.js" type="text/javascript"></script>
 ```
 
