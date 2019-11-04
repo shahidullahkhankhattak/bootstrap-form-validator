@@ -25,6 +25,9 @@ Or download it directly from here.
 
 ## Usage
 Initializing validator object & provider class to the validator
+- form validator will automatically run on form submit
+- also form validator will automatically run on element blur
+
 ```javascript
 var formValidator = $("form.validateForm").bootstrapValidator({
 				class: "validate",
