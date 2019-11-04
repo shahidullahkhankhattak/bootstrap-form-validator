@@ -42,5 +42,8 @@ formValidator.reValidate();
 
 You can check anytime if validator has passed using the following 
 ```javascript
-formValidator.isValid();
+let isValid = formValidator.isValid();
+if(isvalid){
+    // do your stuff here
+}
 ```
