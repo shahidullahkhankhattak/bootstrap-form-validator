@@ -71,7 +71,8 @@
 		if(obj.class){
 			let selector = "." +  obj.class;
 			var elements = $(this).find(selector);
-			elements.on('blur', validateElem);
+			if(obj.onBlur)
+			    elements.on('blur', validateElem);
 			$(this).on('submit', function(e){
 				onSubmitValidate(elements);
 				if(!isFormValid){
