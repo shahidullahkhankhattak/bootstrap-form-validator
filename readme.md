@@ -36,11 +36,11 @@ var formValidator = $("form.validateForm").bootstrapValidator({
 
 Now you can revalidate any time when you want validator to run validations again.
 
-```
+```javascript
 formValidator.reValidate();
 ```
 
 You can check anytime if validator has passed using the following 
-```
+```javascript
 formValidator.isValid();
 ```
