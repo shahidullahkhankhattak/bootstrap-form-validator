@@ -2,7 +2,7 @@
 
 [![N|Solid](https://shahidullahkhan.com/images/powered.png)](https://shahidullahkhan.com)
 
-[![Build Status](https://shahidullahkhan.com/images/passing.svg)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://shahidullahkhan.com/images/passing.svg)](https://shahidullahkhan.com)
 
 ##### This is an easy to use jQuery form validator package that helps validating multiple inputs / form control with a one liner.
 
